@@ -1,2 +1,2 @@
-# go-sample-sqlight
-Go + SQLite のサンプル
+# go-sample-gorm
+Go + GORM + SQLite のサンプル
